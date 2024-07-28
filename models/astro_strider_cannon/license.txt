@@ -1,0 +1,11 @@
+Model Information:
+* title:	Astro Strider Cannon
+* source:	https://sketchfab.com/3d-models/astro-strider-cannon-b67784c6c9f54fb8a64cdd8324a73476
+* author:	QuickDriftVR (https://sketchfab.com/QuickDriftVR)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Astro Strider Cannon" (https://sketchfab.com/3d-models/astro-strider-cannon-b67784c6c9f54fb8a64cdd8324a73476) by QuickDriftVR (https://sketchfab.com/QuickDriftVR) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
